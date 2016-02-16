@@ -1,0 +1,2 @@
+# aemsngit
+aem scripting node
